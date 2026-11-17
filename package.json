@@ -1,0 +1,1 @@
+{"name":"linkx-shortlink-resolver","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=20"},"dependencies":{"ipaddr.js":"^2.2.0"}}
